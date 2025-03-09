@@ -1,6 +1,9 @@
 function About(){
     return(
-        <h1>this is the about page</h1>
+        <>
+        <button>login</button>
+        <button>register</button>
+        </>
     )
 }
 export default About
